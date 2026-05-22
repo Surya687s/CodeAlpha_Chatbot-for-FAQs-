@@ -1,0 +1,122 @@
+[
+    {
+        "question": "What is AI?",
+        "answer": "AI stands for Artificial Intelligence. It enables machines to simulate human intelligence."
+    },
+    {
+        "question": "What is Machine Learning?",
+        "answer": "Machine Learning is a subset of AI that allows systems to learn from data."
+    },
+    {
+        "question": "What is Deep Learning?",
+        "answer": "Deep Learning is an advanced Machine Learning technique based on neural networks."
+    },
+    {
+        "question": "What is Python?",
+        "answer": "Python is a popular programming language used in web development, AI, automation, and data science."
+    },
+    {
+        "question": "Why is Python popular?",
+        "answer": "Python is easy to learn, powerful, and has a huge collection of libraries."
+    },
+    {
+        "question": "What is NLP?",
+        "answer": "NLP stands for Natural Language Processing. It helps computers understand human language."
+    },
+    {
+        "question": "What is a chatbot?",
+        "answer": "A chatbot is a software application that can communicate with users using text or voice."
+    },
+    {
+        "question": "What is TensorFlow?",
+        "answer": "TensorFlow is an open-source Machine Learning framework developed by Google."
+    },
+    {
+        "question": "What is data science?",
+        "answer": "Data science is the field of extracting insights and knowledge from data."
+    },
+    {
+        "question": "What is an API?",
+        "answer": "API stands for Application Programming Interface. It allows applications to communicate with each other."
+    },
+    {
+        "question": "How can I learn programming?",
+        "answer": "You can learn programming through online courses, practice projects, and consistent coding."
+    },
+    {
+        "question": "What are Python libraries?",
+        "answer": "Python libraries are collections of prewritten code that help developers perform tasks easily."
+    },
+    {
+        "question": "What is cloud computing?",
+        "answer": "Cloud computing provides computing services like storage and servers over the internet."
+    },
+    {
+        "question": "What is GitHub?",
+        "answer": "GitHub is a platform used for version control and collaboration on coding projects."
+    },
+    {
+        "question": "What is cybersecurity?",
+        "answer": "Cybersecurity protects systems, networks, and data from cyber attacks."
+    },
+    {
+        "question": "What is HTML?",
+        "answer": "HTML is the standard markup language used to create webpages."
+    },
+    {
+        "question": "What is CSS?",
+        "answer": "CSS is used to style and design HTML webpages."
+    },
+    {
+        "question": "What is JavaScript?",
+        "answer": "JavaScript is a programming language used to create interactive web applications."
+    },
+    {
+        "question": "What is a database?",
+        "answer": "A database is an organized collection of data that can be stored and accessed electronically."
+    },
+    {
+        "question": "What is SQL?",
+        "answer": "SQL stands for Structured Query Language and is used to manage databases."
+    },
+    {
+        "question": "What is an operating system?",
+        "answer": "An operating system manages computer hardware and software resources."
+    },
+    {
+        "question": "What is Linux?",
+        "answer": "Linux is an open-source operating system widely used for servers and development."
+    },
+    {
+        "question": "What is automation?",
+        "answer": "Automation uses technology to perform tasks with minimal human intervention."
+    },
+    {
+        "question": "What is web development?",
+        "answer": "Web development involves creating and maintaining websites and web applications."
+    },
+    {
+        "question": "What is software engineering?",
+        "answer": "Software engineering is the process of designing, developing, testing, and maintaining software."
+    },
+    {
+        "question": "How can I contact support?",
+        "answer": "You can contact support through email or the customer service portal."
+    },
+    {
+        "question": "What are your working hours?",
+        "answer": "Our working hours are Monday to Friday from 9 AM to 6 PM."
+    },
+    {
+        "question": "Do you provide online classes?",
+        "answer": "Yes, we provide online classes and learning resources."
+    },
+    {
+        "question": "Can beginners learn AI?",
+        "answer": "Yes, beginners can learn AI by starting with Python, mathematics, and Machine Learning basics."
+    },
+    {
+        "question": "What projects should beginners build?",
+        "answer": "Beginners can build chatbots, calculator apps, weather apps, and simple Machine Learning projects."
+    }
+]
